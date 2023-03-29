@@ -1,0 +1,1 @@
+gerenciador de produtos basicos  em python
